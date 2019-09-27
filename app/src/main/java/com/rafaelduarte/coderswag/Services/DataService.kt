@@ -3,7 +3,7 @@ package com.rafaelduarte.coderswag.Services
 import com.rafaelduarte.coderswag.Model.Category
 import com.rafaelduarte.coderswag.Model.Product
 
-object DataSerice {
+object DataService {
 
     val categories = listOf(
         Category("SHIRTS", "shirtimage"),
